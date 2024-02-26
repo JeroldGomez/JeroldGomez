@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there! I'm Jerold Gomez
 
-A dedicated data science enthusiast with a profound love for the captivating realm of analytics. Currently pursuing my Bachelor's degree in Computer Science, I find joy in unraveling the insights hidden within data sets and transforming them into meaningful stories. My journey into the fascinating world of data science is documented here, on my GitHub portfolio. 
+A **`dedicated data science enthusiast`** with a profound love for the captivating realm of analytics. Currently pursuing my Bachelor's degree in Computer Science, I find joy in unraveling the insights hidden within data sets and transforming them into meaningful stories. My journey into the fascinating world of data science is documented here, on my GitHub portfolio. 
 
 What you'll discover in my repository:
 
