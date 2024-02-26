@@ -26,7 +26,7 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a82
 
 #
 
-🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 
 
