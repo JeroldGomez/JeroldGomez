@@ -12,8 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi there! I'm Jerold Gomez,
+## 👋 Hi there! I'm Jerold Gomez
 
 A dedicated data science enthusiast with a profound love for the captivating realm of analytics. Currently pursuing my Bachelor's degree in Computer Science, I find joy in unraveling the insights hidden within data sets and transforming them into meaningful stories. My journey into the fascinating world of data science is documented here, on my GitHub portfolio. 
+
+What you'll discover in my repository:
+
+🔍 **Data Exploration & Analysis:** Dive into my projects where I explore diverse datasets, uncover patterns, and derive actionable insights.
+
+📊 **Machine Learning Adventures:** Explore my implementations of machine learning algorithms, from predictive modeling to classification tasks.
+
+📈 **Coding Chronicles:** As I navigate through my Computer Science degree, witness the evolution of my coding skills and the applications I've built along the way.
 
 
