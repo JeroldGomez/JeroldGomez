@@ -18,8 +18,8 @@ A dedicated data science enthusiast with a profound love for the captivating rea
 
 What you'll discover in my repository:
 
-- **Data Exploration & Analysis:** Dive into my projects where I explore diverse datasets, uncover patterns, and derive actionable insights.
-- **Machine Learning Adventures:** Explore my implementations of machine learning algorithms, from predictive modeling to classification tasks.
-- **Coding Chronicles:** As I navigate through my Computer Science degree, witness the evolution of my coding skills and the applications I've built along the way.
+- 🔍 **Data Exploration & Analysis:** Dive into my projects where I explore diverse datasets, uncover patterns, and derive actionable insights.
+- 📊 **Machine Learning Adventures:** Explore my implementations of machine learning algorithms, from predictive modeling to classification tasks.
+- 📈 **Coding Chronicles:** As I navigate through my Computer Science degree, witness the evolution of my coding skills and the applications I've built along the way.
 
 
