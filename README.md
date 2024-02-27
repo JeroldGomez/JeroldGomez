@@ -24,7 +24,7 @@ What you'll discover in my repository:
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a8272/). There, you'll discover more projects, experiences, achievements, and insights that complement what you see in this GitHub repository.
 
-![Jerold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=tokyonight)
+![Jerold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=dark)
 #
 
 ### 🧰 Languages and Tools
