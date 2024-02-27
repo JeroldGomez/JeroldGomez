@@ -42,8 +42,8 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a82
 #
 
 ### 📊 Stats
-          
-          
+
+![Jerold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=radical)
 
 
 
