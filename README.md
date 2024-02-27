@@ -41,7 +41,7 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a82
 
 #
 
-### Stats
+### 📊 Stats
           
           
 
