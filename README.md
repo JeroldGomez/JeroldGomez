@@ -23,6 +23,7 @@ What you'll discover in my repository:
 - 📈 **Coding Chronicles:** As I navigate through my Computer Science degree, witness the evolution of my coding skills and the applications I've built along the way.
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a8272/). There, you'll discover more projects, experiences, achievements, and insights that complement what you see in this GitHub repository.
+
 ![Jerold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=tokyonight)
 #
 
