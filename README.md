@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is .
-=========================================================================================================================
+## 👋 Hi there! I'm Jerold Gomez
 
 A dedicated **`data science enthusiast`** with a profound love for the captivating realm of analytics. Currently pursuing my Bachelor's degree in Computer Science, I find joy in unraveling the insights hidden within data sets and transforming them into meaningful stories. My journey into the fascinating world of data science is documented here, on my GitHub portfolio. 
 
