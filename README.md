@@ -11,7 +11,7 @@ What you'll discover in my repository:
 Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a8272/). There, you'll discover more projects, experiences, achievements, and insights that complement what you see in this GitHub repository.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=dark" alt="Jerold's GitHub Stats" width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&include_all_commits=true&theme=dark" alt="Jerold's GitHub Stats" width="500" height="200"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JeroldGomez&theme=dark" alt="GitHub Streak" width="480" height="200"/>
