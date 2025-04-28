@@ -1,4 +1,3 @@
--->
 ## 👋🏻 Hi there! I'm Jerold Gomez
 
 A dedicated **`data science enthusiast`** with a profound love for the captivating realm of analytics. Currently pursuing my Bachelor's degree in Computer Science, I find joy in unraveling the insights hidden within data sets and transforming them into meaningful stories. My journey into the fascinating world of data science is documented here, on my GitHub portfolio. 
@@ -13,7 +12,9 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a82
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=dark" alt="Jerold's GitHub Stats" width="500" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=JeroldGomez&theme=dark" alt="GitHub Streak" width="500" height="200"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JeroldGomez&theme=dark" alt="GitHub Streak" width="480" height="200"/>
 </p>
 
 ## Tech Stack 📚
@@ -36,12 +37,17 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a82
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Let's Collaborate 💬
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/JeroldGomezzz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeroldgomez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeroldgomez345@gmail.com)
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=JeroldGomez&label=👀+Hello+&style=for-the-badge&color=40916c" alt="Profile Views"/>
+</a>
+
 
 <!--
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
