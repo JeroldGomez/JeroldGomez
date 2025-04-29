@@ -10,8 +10,10 @@ What you'll discover in my repository:
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/jerold-gomez-0537a8272/). There, you'll discover more projects, experiences, achievements, and insights that complement what you see in this GitHub repository.
 
-![Jerold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JeroldGomez&theme=dark)](https://git.io/streak-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeroldGomez&show_icons=true&include_all_commits=true&theme=dark" width="500" height="300" />
+  <img src="https://streak-stats.demolab.com?user=JeroldGomez&theme=dark" width="500" height="300" />
+</p>
 
 ## Tech Stack 📚
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
